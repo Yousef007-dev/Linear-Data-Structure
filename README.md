@@ -9,11 +9,7 @@ Linked List: A linear collection of data elements where each element points to t
 Stack: A collection that follows the Last In First Out (LIFO) principle.
 
 Queue: A collection that follows the First In First Out (FIFO) principle.
-github.com
-github.com
-+1
-github.com
-+1
+
 
 ⚙️ Features
 Implementations are written in Java.
@@ -27,21 +23,14 @@ Provides sample usage examples and test cases.
 🚀 Getting Started
 Clone this repository:
 
-bash
-Copy
-Edit
 git clone https://github.com/Yousef007-dev/Linear-Data-Structure.git
 Navigate to the src directory:
 
-bash
-Copy
-Edit
+
 cd Linear-Data-Structure/src
 Compile and run the desired data structure class:
 
-bash
-Copy
-Edit
+
 javac DataStructureName.java
 java DataStructureName
 📄 License
